@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    border-color: collapse;
+    font-size: 10pt;
+    border: 1px solid #cccc;
+}
+
+td{ 
+    padding: 3px;
+    height: 25px;
+}
+
+th{
+    background-color: steelblue;
+    color: white;
+    height: 30px;
+}
+h1{
+    font-weight: 600;
+    color: steelblue;
+}
+
+tr{
+    background-color: #eeee;
+}
+
+.btn-delete{
+    border: 1px solid #db5d59;
+    background: url("do.png") ;
+    height: 22px;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.btn-update{
+    border: 1px solid #00b3a8;
+    background:  url("untitled.jpg") no-repeat 5px 4px;
+    height: 22px;
+    padding-left: 15px;
+    padding-top: 5px;
+
+}
